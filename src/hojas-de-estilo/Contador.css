@@ -1,0 +1,17 @@
+.contador {
+    min-width: 250px;
+    height: 200px;
+    font-size: 160px;
+    color: #fff;
+    padding: 25px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(176, 68, 224, 0.3);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.3px);
+-webkit-backdrop-filter: blur(6.3px);
+border: 2px solid rgba(255, 255, 255, 0.25);
+}
